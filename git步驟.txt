@@ -1,0 +1,6 @@
+新增一個資料夾
+右鍵開啟CMD
+輸入"git init"
+
+在資料夾開啟 vs code
+cmd中輸入"code ."
